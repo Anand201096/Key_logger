@@ -1,9 +1,9 @@
 # key_logger python
 
-## To run it in your machine for testing
-* run the command
-* pip install -r requirements.txt
-* to download the dependencies required for the project
+## Installation:
+1) sudo git clone https://github.com/Anand201096/Key_logger.git
+2) cd Key_logger
+3) pip install -r requirements.txt
     
 ## Things achieved:
 * Listen to keystrokes.
